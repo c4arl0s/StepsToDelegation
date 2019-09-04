@@ -7,3 +7,10 @@
 
 - Swift allows to be used protocols in classes, structs and enums.
 - Objective-C allows only can be used protocols in classes.
+
+# Naming conventions for delegate protocols.
+
+SecondViewControllerDelegate
+UITextFieldDelegate
+UIApplicationDelegate
+
